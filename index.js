@@ -50,7 +50,6 @@ function maxOf(arr) {
 
 function includesNumber(arr, n) {
     if (arr.length) {
-        debugger
         if (arr[0] === n) {
             return true
         } else {
